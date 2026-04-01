@@ -16,19 +16,21 @@ url                      : https://pedroskorin.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# ============================================================
+# PERSONAL INFO — Edit the fields below to update your profile.
+# These appear in the sidebar on every page.
+# Fields left blank (or commented out) will be hidden.
+# ============================================================
 author:
   # Biographic information
-  avatar           : "profile_git.png"
+  avatar           : "profile_git.png"          # filename from /images/
   name             : "Pedro Skorin"
-  pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "Santiago, Chile"
-  employer         : "PUC-Chile"
-  uri              : # URL
-  email            : # "none@example.org" 
+  pronouns         :                             # e.g. "he/him"
+  bio              :   
+  location         : 
+  employer         : "MIT"
+  uri              :                             # Personal website URL (if different from this site)
+  email            :                             # e.g. "pedro@example.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

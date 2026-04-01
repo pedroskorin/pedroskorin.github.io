@@ -1,10 +1,32 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- ============================================================ -->
+<!-- EASY EDIT: Update the text below with your own information.  -->
+<!-- Your name, location, and employer come from _config.yml.     -->
+<!-- ============================================================ -->
+
+I am a researcher at **PUC-Chile** in Santiago, Chile. My work focuses on [your research area — e.g., machine learning, economics, computational biology]. I am broadly interested in [topic 1], [topic 2], and [topic 3].
+
+I received my [degree] from [institution] in [year], advised by [advisor name]. Before that, I completed my [undergraduate degree] at [institution].
+
+## News
+
+<!-- Add recent updates, awards, papers, etc. One per bullet. -->
+
+- **[Month Year]** — [Brief news item, e.g., "New paper accepted at Conference X"]
+- **[Month Year]** — [Brief news item]
+- **[Month Year]** — [Brief news item]
+
+## Selected Work
+
+<!-- Highlight 2–3 key papers or projects. Remove this section if you prefer. -->
+
+- **[Paper Title]** — *[Venue, Year]*. [One-sentence description of the contribution.]
+- **[Paper Title]** — *[Venue, Year]*. [One-sentence description of the contribution.]

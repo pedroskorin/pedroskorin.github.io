@@ -9,56 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- ============================================================ -->
+<!-- EASY EDIT: Replace placeholder entries with your own.        -->
+<!-- Each section uses standard Markdown lists/headers.           -->
+<!-- You can also link to a PDF: [Download CV](../files/cv.pdf)   -->
+<!-- ============================================================ -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[Download PDF version](../files/cv.pdf){: .btn .btn--primary}
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Ph.D.**, [Field], [University], [Year expected/awarded]
+- **M.Sc.**, [Field], [University], [Year]
+- **B.Sc.**, [Field], [University], [Year]
+
+---
+
+## Positions
+
+- **[Year–present]** [Title], [Institution], [Department/Lab]
+- **[Year–Year]** [Title], [Institution]
+
+---
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Awards & Fellowships
+
+<!-- List awards, scholarships, fellowships, etc. -->
+
+- **[Year]** — [Award name], [Granting institution]
+- **[Year]** — [Award name], [Granting institution]
+
+---
+
+## Teaching
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Talks & Presentations
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+---
+
+## Skills & Tools
+
+- **Languages:** [e.g., Python, R, Julia, MATLAB]
+- **Frameworks:** [e.g., PyTorch, TensorFlow, Stan]
+- **Other:** [e.g., LaTeX, Git, SQL]
+
+---
+
+## Service
+
+- **[Year–present]** Reviewer for [Journal/Conference]
+- **[Year]** [Committee or service role], [Institution/Organization]
