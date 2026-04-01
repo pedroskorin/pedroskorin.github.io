@@ -11,9 +11,9 @@ redirect_from:
 <!-- ABOUT — edit the text below                                   -->
 <!-- ============================================================ -->
 
-I am a first-year PhD student in economics at MIT. I am broadly interested in Industrial Organization, Development Economics, and Environmental Economics.
+I am a first-year PhD student in economics at MIT. I am interested in Industrial Organization, Development Economics, and Environmental Economics.
 
-You can download my [CV here](/files/cv_pedroskorin.pdf).
+I received my Master's from PUC-Chile. Before that, I completed my Bachelor's at UFRGS. You can find my [CV here](/files/cv_pedroskorin.pdf).
 
 Email: pskorin@mit.edu
 
@@ -21,7 +21,7 @@ Email: pskorin@mit.edu
 
 ## Working papers
 
-Competition and Misconduct in Certification Markets: A Case for Smog-Check Monopolies (with Nano Barahona and Juan-Pablo Montero)
+Competition and Misconduct in Certification Markets: A Case for Smog-Check Monopolies with Nano Barahona and Juan-Pablo Montero
 
 ---
 
