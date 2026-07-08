@@ -21,7 +21,7 @@ Email: pskorin@mit.edu
 
 ## Working papers
 
-**Competition and Misconduct in Certification Markets: A Case for Smog-Check Monopolies** with [Nano Barahona](https://hbaraho.github.io/) and [Juan-Pablo Montero](https://sites.google.com/site/jpmontero1812/)
+[**Competition and Misconduct in Certification Markets with Externalities**](/papers/smog_checks.pdf) with [Nano Barahona](https://hbaraho.github.io/) and [Juan-Pablo Montero](https://sites.google.com/site/jpmontero1812/)
 
 ---
 
