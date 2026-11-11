@@ -11,7 +11,7 @@ redirect_from:
 <!-- ABOUT — edit the text below                                   -->
 <!-- ============================================================ -->
 
-I am a first-year PhD student in economics at MIT. I am interested in Industrial Organization, Development Economics, and Environmental Economics.
+I am a second-year PhD student in economics at MIT. I am interested in Industrial Organization, Development Economics, and Environmental Economics.
 
 I received my Master's from PUC-Chile. Before that, I completed my Bachelor's at UFRGS. You can find my [CV here](/files/cv_pedroskorin.pdf).
 
